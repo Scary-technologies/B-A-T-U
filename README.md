@@ -51,7 +51,7 @@
 
 ## پشتیبانی
 
-اگر سوال یا مشکلی دارید، می‌توانید به [Your Website](https://github.com/Scary-technologies) مراجعه کنید یا با ما تماس بگیرید.
+اگر سوال یا مشکلی دارید، می‌توانید به [Github](https://github.com/Scary-technologies) مراجعه کنید یا با ما تماس بگیرید.
 
 ## مشارکت
 
