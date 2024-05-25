@@ -1,7 +1,7 @@
 # BATU - بروزرسانی دسته‌جمعی متن جایگزین رسانه‌ها
 
-**نسخه:** 1.3  
-**نویسنده:** Pr-M  
+**نسخه:** 0.1  
+**نویسنده:** Pr-Mir  
 **مجوز:** GPL2  
 
 ## توضیحات
@@ -51,9 +51,12 @@
 
 ## پشتیبانی
 
-اگر سوال یا مشکلی دارید، می‌توانید به [GitHub](https://github.com/Scary-technologies) مراجعه کنید یا با ما تماس بگیرید.
+اگر سوال یا مشکلی دارید، می‌توانید به [Your Website](https://github.com/Scary-technologies) مراجعه کنید یا با ما تماس بگیرید.
 
 ## مشارکت
 
-اگر می‌خواهید در توسعه افزونه مشارکت کنید، لطفاً به مخزن GitHub ما سر بزنید: [GitHub Repository](https://github.com/Scary-technologies/B-A-T-U)
+اگر می‌خواهید در توسعه افزونه مشارکت کنید، لطفاً به مخزن GitHub ما سر بزنید: [GitHub Repository](https://github.com/Scary-technologies)
 
+## مجوز
+
+این افزونه تحت مجوز GPL2 منتشر شده است. برای مشاهده متن کامل مجوز به [GPL2 License](https://www.gnu.org/licenses/gpl-2.0.html) مراجعه کنید.
